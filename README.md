@@ -10,7 +10,7 @@
 - Somewhat of a rhythm gamer (osu!,EZ2AC,DJMAX,Beatmania IIDX, PumpItUp)
 
 ### Project
-- Writing a telegram-bot used in [*redacted*](//[https://youtu.be/6bHgDat2S_w](https://youtu.be/6bHgDat2S_w))
+- Writing a telegram-bot used in [*redacted*](https://youtu.be/6bHgDat2S_w)
 <!--
 **AnatOWJIya/anatowjiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
